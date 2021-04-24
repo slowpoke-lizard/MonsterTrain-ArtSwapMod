@@ -1,11 +1,11 @@
 # MonsterTrain-ArtSwapMod
-Easy card art replacement mod for the game Monster Train
+Easy card art replacement mod for the game Monster Train. Just put jpegs correctly named in a folder.
 
-1
+![Deadweight example](https://github.com/slowpoke-lizard/MonsterTrain-ArtSwapMod/raw/main/Deadweight.png)
 
- * 1. Find the directory of this mod's dll
- * 2. Create an "assets" sub directory there.
- * 3. Put your alternate card art in "assets".
+1. Find the directory of this mod's dll
+2. Create an "assets" sub directory there.
+3. Put your alternate card art in "assets".
 
 This will only affect card art, not the monster summoned or anything else.
 
