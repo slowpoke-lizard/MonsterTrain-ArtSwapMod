@@ -1,0 +1,10 @@
+C:\Users\Francois\Games\Monster Train\BepInEx\plugins\Art swap\plugins\netstandard2.0\Monster Train Mod art swap.deps.json
+C:\Users\Francois\Games\Monster Train\BepInEx\plugins\Art swap\plugins\netstandard2.0\Monster Train Mod art swap.dll
+C:\Users\Francois\Games\Monster Train\BepInEx\plugins\Art swap\plugins\netstandard2.0\Monster Train Mod art swap.pdb
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.csprojAssemblyReference.cache
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.AssemblyInfoInputs.cache
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.AssemblyInfo.cs
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.csproj.CoreCompileInputs.cache
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.csproj.CopyComplete
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.dll
+C:\Users\Francois\source\repos\Monster Train Mod art swap\Monster Train Mod art swap\obj\Debug\netstandard2.0\Monster Train Mod art swap.pdb
