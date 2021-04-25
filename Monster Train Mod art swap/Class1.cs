@@ -30,11 +30,11 @@ using System.Collections.Generic;
 namespace ArtSwapMod
 {
     [BepInPlugin(GUID, NAME, VERSION)]
-    public class UnitSizePlugin : BaseUnityPlugin, IInitializable
+    public class ArtSwapPlugin : BaseUnityPlugin, IInitializable
     {
         public const string GUID = "this.looks.different";
         public const string NAME = "Art Swap";
-        public const string VERSION = "1.0.0";
+        public const string VERSION = "1.0.1";
 
         public Assembly assembly;
         public string codeBase;
@@ -48,8 +48,8 @@ namespace ArtSwapMod
 
         private void Awake()
         {
-            var harmony = new Harmony(GUID);
-            harmony.PatchAll();
+            var harmony = new Harmony(GUID); 
+            // harmony.PatchAll(); // We don't have patches.
 
             // New art should go in an "assets" directory, right besides this mod's DLL
             this.artPath = "assets";

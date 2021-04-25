@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>lib\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\Games\Monster Train\BepInEx\core\0Harmony.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="Assembly-CSharp">
@@ -19,11 +19,11 @@
       <Private>false</Private>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>lib\BepInEx.dll</HintPath>
+      <HintPath>..\..\..\..\Games\Monster Train\BepInEx\core\BepInEx.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="BepInEx.Harmony">
-      <HintPath>lib\BepInEx.Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\Games\Monster Train\BepInEx\core\BepInEx.Harmony.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="TrainworksModdingTools">
@@ -32,6 +32,7 @@
     </Reference>
     <Reference Include="Unity.Addressables">
       <HintPath>..\..\..\..\Games\Monster Train\MonsterTrain_Data\Managed\Unity.Addressables.dll</HintPath>
+      <Private>false</Private>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>lib\UnityEngine.dll</HintPath>
